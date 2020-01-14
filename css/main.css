@@ -141,12 +141,20 @@ body {
 
  }
 
- .newsweek-conversion .logo-container {
+
+ div.newsweek-conversion {
+
+    margin-top: 9.5em;
+ }
+
+ .newsweek-conversion .logo-container,
+ .edittors-pick .logo-container {
 
     text-align: center;
  }
 
- .newsweek-conversion div div span.conversion-logo {
+ .newsweek-conversion div div span.conversion-logo,
+ .edittors-pick div div span.conversion-logo {
 
     display: inline-block;
     background: #f72210;
@@ -366,8 +374,14 @@ body {
 
  div.edittors-pick {
 
-    margin-top: 8em;
+    margin-top: 2em;
     position: relative;
+ }
+
+ div.edittors-pick .logo-container {
+
+    border-bottom: solid 1px #ccc;
+
  }
 
  div.image-container {
@@ -448,7 +462,7 @@ div.us-l .col-6 {
 } 
 
 /**************************************this section is for subscribe*********************/
-.subscribe {
+.subscribe, .sports {
 
     border-bottom: solid 2px #efefef;
     
@@ -476,7 +490,7 @@ div.subscribe div .subscribe-title {
 
 .subscribe .subscribe-left img{
 
-    height: 21em;
+    height: 18.7em;
 }
 
 .subscribe .sub-link{
