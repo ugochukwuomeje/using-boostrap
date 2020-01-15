@@ -15,7 +15,7 @@ This project is about next web clone. It is a responsive website developed with 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),
 - [CSS](https://www.w3schools.com/css/),
 - [Fontawesome](https://fontawesome.com/)
-- [Fontawesome](https://www.w3schools.com/bootstrap4/bootstrap_utilities.asp)
+- [Bootstrap](https://www.w3schools.com/bootstrap4/bootstrap_utilities.asp)
 
 
 ## Live Demo
