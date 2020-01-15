@@ -3,7 +3,7 @@
 > This project is from [Microverse](https://www.microverse.org/) main curriculum.
 
 
-![screenshot](Firefox_Screenshot_2019-12-30T11-14-17.334Z.png)
+![screenshot](image\screenshot.png)
 
 
 This project is about next web clone. It is a responsive website developed with flex box and grid system. It has two break points. The first break point starts from 1024px while the second break point starts from 768px
