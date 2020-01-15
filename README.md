@@ -27,9 +27,6 @@ This project is about next web clone. It is a responsive website developed with 
 
 -Use `git clone https://github.com/ugochukwuomeje/building-responsive-design.git` 
 
-### Setup
-Use `npm install` to set up all of the dependencies and CSS linters
-
 ## Authors
 
 👤 **Author1**
