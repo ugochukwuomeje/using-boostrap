@@ -6,7 +6,7 @@
 ![screenshot](image/screenshot.png)
 
 
-This project is about next web clone. It is a responsive website developed with flex box and grid system. It has two break points. The first break point starts from 1024px while the second break point starts from 768px
+This project is about newsweek Magazine website clone. It is a responsive website developed bootstrap 4 frame work.
 
 
 
@@ -20,7 +20,7 @@ This project is about next web clone. It is a responsive website developed with 
 
 ## Live Demo
 
-[Live Demo Link](https://ugochukwuomeje.github.io/building-responsive-design/)
+[Live Demo Link](https://ugochukwuomeje.github.io/using-boostrap/)
 
 
 ## Getting Started
