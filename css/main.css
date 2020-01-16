@@ -1,0 +1,463 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #efefef !important;
+}
+
+.newsweek {
+  font-family: "Ultra", serif;
+  font-size: 65px;
+}
+
+.top-menu {
+  background-color: #f72210;
+}
+
+.travel a {
+  padding: 1px 5px;
+  display: inline-block;
+  background: rgb(170, 211, 209);
+  border-radius: 0;
+  color: black;
+  margin-top: 5px;
+}
+
+.us-l a {
+  color: #000;
+}
+
+.lower-menu li a {
+  padding-left: 15%;
+  border-left: solid 1px #ccc;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.opinion,
+.more-stories {
+  padding-bottom: 5px;
+  border-bottom: solid 1px #ccc;
+  font-size: 1em;
+  line-height: 1em;
+}
+
+.latest-news .row {
+  padding-bottom: 5px;
+  border-bottom: solid 1px #ccc;
+  font-size: 0.9em;
+  line-height: 1em;
+}
+
+.opinion .autor {
+  padding: 0.5em 0 0.5em 0;
+  font-size: 0.8em;
+}
+
+div.schumer a {
+  font-weight: 1000 !important;
+}
+
+.newsweek-conversion .conversion-bg-img a {
+  display: block;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.footer i {
+  font-size: 24px;
+}
+
+.newsweek-conversion .conversion-bg-img span i {
+  font-size: 36px;
+}
+
+div .top-stories:hover {
+  border-bottom: solid 2px #f72210;
+  text-decoration: none;
+}
+
+.latest-news .opinion a {
+  font-size: 1em;
+  margin-top: 1em;
+  display: block;
+  text-decoration: none;
+}
+
+.newsweek-conversion .flex-dec1 a,
+.newsweek-conversion .flex-dec2 a,
+.newsweek-conversion .flex-dec3 a {
+  color: #fff;
+}
+
+div.schumer a:hover {
+  color: #fa2c10 !important;
+  text-decoration: none;
+  font-weight: 1000 !important;
+}
+
+div.culture-travel {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.feature-stories figcaption a:hover {
+  text-decoration: none;
+  border-bottom: solid 2px #f72210 !important;
+}
+
+.feature-stories .img-title {
+  position: relative;
+}
+
+.feature-stories .image-footer {
+  position: absolute;
+  top: 87%;
+  left: 4px;
+  background: #dedede;
+  padding: 5px;
+}
+
+.latest-news figure img {
+  height: 100%;
+  width: 100%;
+  margin-top: 1em;
+}
+
+div.edittors-pick .edittors-pick-title a {
+  color: #000;
+  text-decoration: none;
+}
+
+.latest-news .opinion a:hover {
+  display: block;
+  color: #f72210 !important;
+}
+
+.latest-news .opinion {
+  line-height: 1.3em;
+}
+
+.row .inner-logo {
+  margin-top: 1em;
+  background: #f72210;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bolder;
+  font-size: 1.4em;
+  color: white;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+.row .div-newsletter {
+  background: #efefef !important;
+  width: 95%;
+  margin: auto;
+  margin-top: 1em;
+}
+
+.row .div-newsletter a:hover {
+  text-decoration: none;
+  background: #8f8f8f !important;
+  color: #fff;
+}
+
+div.newsweek-conversion {
+  margin-top: 9.5em;
+}
+
+.newsweek-conversion .logo-container,
+.edittors-pick .logo-container {
+  text-align: center;
+}
+
+.newsweek-conversion div div span.conversion-logo,
+.edittors-pick div div span.conversion-logo {
+  display: inline-block;
+  background: #f72210;
+  color: #fff;
+  padding-right: 6px;
+  padding-left: 6px;
+}
+
+.newsweek-conversion .conversion-container {
+  background: #000;
+}
+
+.newsweek-conversion .conversion-desc1 {
+  font-size: 1.8em;
+  line-height: 1em;
+  text-decoration: none;
+}
+
+.newsweek-conversion .conversion-desc1:hover {
+  font-size: 1.8em;
+  line-height: 1em;
+  border-bottom: solid 1.5px #f72210;
+}
+
+.newsweek-conversion .conversion-desc2 {
+  color: #dedede;
+}
+
+.newsweek-conversion .conversion-bg-img {
+  background: url(../image/conversion-bg.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.newsweek-conversion .flex1,
+.newsweek-conversion .flex2,
+.newsweek-conversion .flex3 {
+  background: url(../image/conversion-bg.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.newsweek-conversion .flex-dec1 a:hover,
+.newsweek-conversion .flex-dec2 a:hover,
+.newsweek-conversion .flex-dec3 a:hover {
+  color: #fff;
+  text-decoration: none;
+  border-bottom: solid 1.2px #fa2c10;
+}
+
+.newsweek-conversion .flex-dec1,
+.newsweek-conversion .flex-dec2,
+.newsweek-conversion .flex-dec3 {
+  background: #000;
+  color: #fff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+
+.newsweek-conversion .flex-dec1 {
+  font-size: 1em;
+  padding-top: 7px;
+  line-height: 1.2em;
+  text-decoration: none;
+}
+
+.newsweek-conversion .flex-dec-container div {
+  margin-bottom: 2px;
+}
+
+.flex-dec-container .play,
+.conversion-bg-img .play {
+  position: absolute;
+  left: 0;
+  font-size: 24px;
+  bottom: 0;
+  color: white;
+  background: #fa2c10;
+  padding: 0.3em;
+}
+
+div.magazine {
+  position: relative;
+}
+
+div.magazine .row {
+  margin-top: 3em;
+}
+
+div.magazine .magazine1 figure span {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background: #fff;
+  position: absolute;
+  display: inline-block;
+  left: 15px;
+  padding: 3px;
+  bottom: 40px;
+  letter-spacing: 1px;
+}
+
+div.magazine .magazine-img .magazine2-img {
+  background: url(../image/magazine2.jpg) 60% 100% no-repeat;
+  width: 100%;
+  height: 78%;
+  margin-top: 0;
+}
+
+div .magazine-img .magazine3-img {
+  background: url(../image/magazine3.jpg) 60% 100% no-repeat;
+  width: 100%;
+  height: 78%;
+  margin-top: 0;
+}
+
+div .magazine-img .magazine4-img {
+  background: url(../image/magazine4.jpg) 60% 100% no-repeat;
+  width: 100%;
+  height: 78%;
+  margin-top: 0;
+}
+
+.magazine .col-3 span:first-child {
+  background: #fa2c10;
+}
+
+.magazine .col-3 span:last-child {
+  color: #fa2c10;
+}
+
+.magazine .magazine-img .img-caption {
+  line-height: 1em;
+}
+
+.magazine .magazine-img .img-caption a {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+  color: #000;
+  text-decoration: none;
+}
+
+div.edittors-pick .edittors-pick-title a:hover {
+  border-bottom: solid 1.5px #fa2c10;
+}
+
+div.us .us-l a:hover {
+  color: #fa2c10;
+  text-decoration: none;
+}
+
+.magazine .magazine-img .img-caption a:hover {
+  border-bottom: solid 1.7px #fa2c10;
+}
+
+div.magazine .magazine1 .magazine-caption1 {
+  background: #cfcfcf;
+  font-weight: 1000;
+  margin-top: -1em;
+  padding: 0.5em;
+  text-align: center;
+}
+
+div.magazine .magazine-title {
+  text-align: center;
+  border-bottom: solid 1px #dfdfdf;
+  padding-bottom: 15px;
+  width: 72.7%;
+  position: absolute;
+  right: 15px;
+  top: -1.8em;
+}
+
+/**************************************************** this section is for editors pick ********/
+div.magazine .magazine-title span:first-child {
+  background: #fa2c10;
+  color: white;
+  padding: 6px;
+}
+
+div.magazine2 {
+  margin-top: 1em;
+}
+
+div.magazine2 .magazine-img .magazine1-img,
+div.magazine2 .magazine-img .magazine2-img,
+div.magazine2 .magazine-img .magazine3-img,
+div.magazine2 .magazine-img .magazine4-img {
+  background: url(../image/magazine4.jpg) 60% 100% no-repeat;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 9em;
+  margin-top: 0;
+}
+
+div.edittors-pick {
+  margin-top: 2em;
+  position: relative;
+}
+
+div.edittors-pick .logo-container {
+  border-bottom: solid 1px #ccc;
+}
+
+div.image-container {
+  position: relative;
+}
+
+div.edittors-pick .editor-pick-label {
+  position: absolute;
+  bottom: 0;
+  background: #ccc;
+  opacity: 0.9;
+  color: #fa2c10;
+}
+
+div.featured-slideshow {
+  border-bottom: solid 1px #caca;
+  text-align: center;
+}
+
+div.featured-slideshow .n {
+  background: #fa2c10;
+  font-size: 1.5em;
+}
+
+div.featured-slideshow .n-outer {
+  border-bottom: solid 1.8px #fa2c10;
+  display: inline-block;
+  border-right: solid 1.5px #fa2c10;
+  width: 45px;
+  height: 43px;
+}
+
+/*********************** this is the section for the US section *************************************/
+div.us-title {
+  color: #fa2c10;
+  border-top: 1px solid #caca;
+  padding-top: 1em;
+}
+
+div.us-l .col-6 {
+  border-bottom: solid 1px #ccc;
+  padding-top: 7px;
+}
+
+div.us-l .col-6:last-child,
+div.us-l .col-6:nth-last-child(2) {
+  border-bottom: none;
+}
+
+/************************************** this section is for subscribe *********************/
+.subscribe,
+.sports {
+  border-bottom: solid 2px #efefef;
+}
+
+div.subscribe .us-l,
+div.subscribe .us-r {
+  color: #fa2c10;
+}
+
+div.subscribe .img-container {
+  padding-left: 50px;
+}
+
+div.subscribe div .subscribe-title {
+  color: #fa2c10;
+}
+
+.subscribe .us .eli {
+  background: #efefef !important;
+}
+
+.subscribe .subscribe-left img {
+  height: 18.7em;
+}
+
+.subscribe .sub-link {
+  background: #fa2c10;
+}
+
+.subscribe .sub-link:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer .newsweek {
+  color: #fa2c10;
+  font-size: 3em;
+}
+
+.footer .row:first-child {
+  border-bottom: solid 1px #cfcfcf;
+}
