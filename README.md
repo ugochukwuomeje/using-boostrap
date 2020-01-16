@@ -6,7 +6,7 @@
 ![screenshot](image/screenshot.png)
 
 
-This project is about newsweek Magazine website clone. It is a responsive website developed bootstrap 4 frame work.
+This project is a clone of newsweek Magazine website. It is a responsive website developed with bootstrap 4 frame work and css.
 
 
 
@@ -25,7 +25,7 @@ This project is about newsweek Magazine website clone. It is a responsive websit
 
 ## Getting Started
 
--Use `git clone https://github.com/ugochukwuomeje/building-responsive-design.git` 
+-Use `git clone https://github.com/ugochukwuomeje/using-boostrap.git` 
 
 ## Authors
 
