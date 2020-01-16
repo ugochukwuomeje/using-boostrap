@@ -20,7 +20,7 @@ This project is about next web clone. It is a responsive website developed with 
 
 ## Live Demo
 
-[Live Demo Link](https://ugochukwuomeje.github.io/building-responsive-design/)
+[Live Demo Link](https://ugochukwuomeje.github.io/using-boostrap/)
 
 
 ## Getting Started
